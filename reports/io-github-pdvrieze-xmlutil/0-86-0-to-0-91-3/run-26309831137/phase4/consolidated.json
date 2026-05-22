@@ -1,0 +1,80 @@
+{
+  "dependency_group": "io.github.pdvrieze.xmlutil",
+  "version_before": "0.86.0",
+  "version_after": "0.91.3",
+  "static_impact": {
+    "dependency_group": "io.github.pdvrieze.xmlutil",
+    "version_before": "0.86.0",
+    "version_after": "0.91.3",
+    "seed_files": [],
+    "impacted_files": [],
+    "expect_actual_pairs": [
+      {
+        "expect_fqcn": "com.github.jetbrains.rssreader.compose.openUrl",
+        "expect_file": "/tmp/output/phase1/before/composeApp/src/commonMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.kt",
+        "actual_files": [
+          "/tmp/output/phase1/before/composeApp/src/androidMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.android.kt",
+          "/tmp/output/phase1/before/composeApp/src/iosMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.ios.kt",
+          "/tmp/output/phase1/before/composeApp/src/jsMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.js.kt",
+          "/tmp/output/phase1/before/composeApp/src/jvmMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.jvm.kt"
+        ]
+      },
+      {
+        "expect_fqcn": "com.github.jetbrains.rssreader.compose.setupDefaultComponents",
+        "expect_file": "/tmp/output/phase1/before/composeApp/src/commonMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.kt",
+        "actual_files": [
+          "/tmp/output/phase1/before/composeApp/src/androidMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.android.kt",
+          "/tmp/output/phase1/before/composeApp/src/iosMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.ios.kt",
+          "/tmp/output/phase1/before/composeApp/src/jsMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.js.kt",
+          "/tmp/output/phase1/before/composeApp/src/jvmMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.jvm.kt"
+        ]
+      },
+      {
+        "expect_fqcn": "com.github.jetbrains.rssreader.compose.getImageCacheDirectoryPath",
+        "expect_file": "/tmp/output/phase1/before/composeApp/src/commonMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.kt",
+        "actual_files": [
+          "/tmp/output/phase1/before/composeApp/src/androidMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.android.kt",
+          "/tmp/output/phase1/before/composeApp/src/iosMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.ios.kt",
+          "/tmp/output/phase1/before/composeApp/src/jsMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.js.kt",
+          "/tmp/output/phase1/before/composeApp/src/jvmMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.jvm.kt"
+        ]
+      },
+      {
+        "expect_fqcn": "com.example.common.DatabaseDriverFactory",
+        "expect_file": "/tmp/output/phase1/before/tools/kmp-impact-analyzer/tests/fixtures/sample_kotlin/ExpectClass.kt",
+        "actual_files": [
+          "/tmp/output/phase1/before/tools/kmp-impact-analyzer/tests/fixtures/sample_kotlin/ActualAndroid.kt"
+        ]
+      }
+    ],
+    "total_project_files": 37,
+    "total_impacted": 0,
+    "ksp_edges_added": 4
+  },
+  "dynamic_regressions": {
+    "status": "skipped",
+    "blocked_reason": "",
+    "before_screens": [],
+    "after_screens": [],
+    "diffs": [],
+    "activity_coverage_before": {},
+    "activity_coverage_after": {},
+    "nodes_before": 0,
+    "nodes_after": 0,
+    "structures_before": 0,
+    "structures_after": 0
+  },
+  "screen_mappings": [],
+  "trace": [],
+  "impacted_screens": [],
+  "total_impacted_files": 0,
+  "total_impacted_screens": 0,
+  "stack_compatibility": {
+    "warnings": [],
+    "detected": {
+      "kotlin": "1.9.21",
+      "agp": "8.1.4",
+      "compose": "1.6.0-dev1397"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="4.3">
+<file name="/tmp/output/phase1/before/composeApp/src/iosMain/kotlin/main.kt">
+	<error line="10" column="5" severity="warning" message="Function names should match the pattern: [a-z][a-zA-Z0-9]*" source="detekt.FunctionNaming" />
+</file>
+<file name="/tmp/output/phase1/before/composeApp/src/iosMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.ios.kt">
+	<error line="27" column="2" severity="warning" message="The file /tmp/output/phase1/before/composeApp/src/iosMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.ios.kt is not ending with a new line." source="detekt.NewLineAtEndOfFile" />
+</file>
+</checkstyle>

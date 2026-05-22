@@ -1,0 +1,10 @@
+/tmp/output/phase1/after/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/core/datasource/network/FeedParser.kt
+/tmp/output/phase1/after/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/core/datasource/network/FeedLoader.kt
+/tmp/output/phase1/after/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/core/Settings.kt
+/tmp/output/phase1/after/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/core/datasource/network/DateParser.kt
+/tmp/output/phase1/after/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/app/NanoRedux.kt
+/tmp/output/phase1/after/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/app/FeedStore.kt
+/tmp/output/phase1/after/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/core/RssReader.kt
+/tmp/output/phase1/after/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/core/entity/feed.kt
+/tmp/output/phase1/after/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/core/datasource/storage/FeedStorage.kt
+/tmp/output/phase1/after/shared/src/jvmMain/kotlin/com/github/jetbrains/rssreader/core/RssReader.kt

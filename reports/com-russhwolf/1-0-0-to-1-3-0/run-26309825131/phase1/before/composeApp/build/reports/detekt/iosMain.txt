@@ -1,0 +1,2 @@
+FunctionNaming - [MainViewController] at /tmp/output/phase1/before/composeApp/src/iosMain/kotlin/main.kt:10:5 - Signature=main.kt$fun MainViewController(): UIViewController
+NewLineAtEndOfFile - [PlatformUI.ios.kt] at /tmp/output/phase1/before/composeApp/src/iosMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.ios.kt:27:2 - Signature=PlatformUI.ios.kt$com.github.jetbrains.rssreader.compose.PlatformUI.ios.kt

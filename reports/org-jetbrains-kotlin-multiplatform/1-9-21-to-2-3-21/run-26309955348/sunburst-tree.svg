@@ -1,0 +1,214 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2250 776" width="2250" height="776" font-family="system-ui,sans-serif"><rect width="100%" height="100%" fill="#F5F4F0"/><text x="30" y="22" font-size="14" font-weight="700" fill="#1F2937">Propagation tree</text><text x="30" y="38" font-size="11" fill="#6B7280">Same hierarchy as the sunburst, flattened for reading.</text>
+<path d="M 30.0 472.0 C 130.0 472.0, 130.0 238.0, 230.0 238.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 238.0 C 330.0 238.0, 330.0 238.0, 430.0 238.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 430.0 238.0 C 530.0 238.0, 530.0 238.0, 630.0 238.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 630.0 238.0 C 730.0 238.0, 730.0 238.0, 830.0 238.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 238.0 C 930.0 238.0, 930.0 238.0, 1030.0 238.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 238.0 C 1130.0 238.0, 1130.0 136.0, 1230.0 136.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 136.0 C 1330.0 136.0, 1330.0 52.0, 1430.0 52.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 136.0 C 1330.0 136.0, 1330.0 76.0, 1430.0 76.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 136.0 C 1330.0 136.0, 1330.0 100.0, 1430.0 100.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 136.0 C 1330.0 136.0, 1330.0 124.0, 1430.0 124.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 136.0 C 1330.0 136.0, 1330.0 148.0, 1430.0 148.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 136.0 C 1330.0 136.0, 1330.0 172.0, 1430.0 172.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 136.0 C 1330.0 136.0, 1330.0 196.0, 1430.0 196.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 136.0 C 1330.0 136.0, 1330.0 220.0, 1430.0 220.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 238.0 C 1130.0 238.0, 1130.0 256.0, 1230.0 256.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 256.0 C 1330.0 256.0, 1330.0 244.0, 1430.0 244.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 256.0 C 1330.0 256.0, 1330.0 268.0, 1430.0 268.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 238.0 C 1130.0 238.0, 1130.0 340.0, 1230.0 340.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 340.0 C 1330.0 340.0, 1330.0 292.0, 1430.0 292.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 340.0 C 1330.0 340.0, 1330.0 346.0, 1430.0 346.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 346.0 C 1530.0 346.0, 1530.0 328.0, 1630.0 328.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1630.0 328.0 C 1730.0 328.0, 1730.0 316.0, 1830.0 316.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1630.0 328.0 C 1730.0 328.0, 1730.0 340.0, 1830.0 340.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 346.0 C 1530.0 346.0, 1530.0 364.0, 1630.0 364.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1630.0 364.0 C 1730.0 364.0, 1730.0 364.0, 1830.0 364.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 340.0 C 1330.0 340.0, 1330.0 388.0, 1430.0 388.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 388.0 C 1530.0 388.0, 1530.0 388.0, 1630.0 388.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 30.0 472.0 C 130.0 472.0, 130.0 460.0, 230.0 460.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 460.0 C 330.0 460.0, 330.0 460.0, 430.0 460.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 430.0 460.0 C 530.0 460.0, 530.0 460.0, 630.0 460.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 630.0 460.0 C 730.0 460.0, 730.0 460.0, 830.0 460.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 460.0 C 930.0 460.0, 930.0 460.0, 1030.0 460.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 460.0 C 1130.0 460.0, 1130.0 412.0, 1230.0 412.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 460.0 C 1130.0 460.0, 1130.0 448.0, 1230.0 448.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 448.0 C 1330.0 448.0, 1330.0 436.0, 1430.0 436.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 448.0 C 1330.0 448.0, 1330.0 460.0, 1430.0 460.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 460.0 C 1130.0 460.0, 1130.0 484.0, 1230.0 484.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 484.0 C 1330.0 484.0, 1330.0 484.0, 1430.0 484.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 460.0 C 1130.0 460.0, 1130.0 508.0, 1230.0 508.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 508.0 C 1330.0 508.0, 1330.0 508.0, 1430.0 508.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 30.0 472.0 C 130.0 472.0, 130.0 562.0, 230.0 562.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 562.0 C 330.0 562.0, 330.0 544.0, 430.0 544.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 430.0 544.0 C 530.0 544.0, 530.0 544.0, 630.0 544.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 630.0 544.0 C 730.0 544.0, 730.0 544.0, 830.0 544.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 544.0 C 930.0 544.0, 930.0 544.0, 1030.0 544.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 544.0 C 1130.0 544.0, 1130.0 532.0, 1230.0 532.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 532.0 C 1330.0 532.0, 1330.0 532.0, 1430.0 532.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 544.0 C 1130.0 544.0, 1130.0 556.0, 1230.0 556.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 556.0 C 1330.0 556.0, 1330.0 556.0, 1430.0 556.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 562.0 C 330.0 562.0, 330.0 580.0, 430.0 580.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 30.0 472.0 C 130.0 472.0, 130.0 634.0, 230.0 634.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 634.0 C 330.0 634.0, 330.0 616.0, 430.0 616.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 430.0 616.0 C 530.0 616.0, 530.0 616.0, 630.0 616.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 630.0 616.0 C 730.0 616.0, 730.0 616.0, 830.0 616.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 616.0 C 930.0 616.0, 930.0 616.0, 1030.0 616.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 616.0 C 1130.0 616.0, 1130.0 604.0, 1230.0 604.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 604.0 C 1330.0 604.0, 1330.0 604.0, 1430.0 604.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 616.0 C 1130.0 616.0, 1130.0 628.0, 1230.0 628.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 628.0 C 1330.0 628.0, 1330.0 628.0, 1430.0 628.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 634.0 C 330.0 634.0, 330.0 652.0, 430.0 652.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 30.0 472.0 C 130.0 472.0, 130.0 706.0, 230.0 706.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 706.0 C 330.0 706.0, 330.0 688.0, 430.0 688.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 430.0 688.0 C 530.0 688.0, 530.0 688.0, 630.0 688.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 630.0 688.0 C 730.0 688.0, 730.0 688.0, 830.0 688.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 688.0 C 930.0 688.0, 930.0 688.0, 1030.0 688.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 688.0 C 1130.0 688.0, 1130.0 676.0, 1230.0 676.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 676.0 C 1330.0 676.0, 1330.0 676.0, 1430.0 676.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 688.0 C 1130.0 688.0, 1130.0 700.0, 1230.0 700.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 700.0 C 1330.0 700.0, 1330.0 700.0, 1430.0 700.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 706.0 C 330.0 706.0, 330.0 724.0, 430.0 724.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<circle cx="30.0" cy="472.0" r="6" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="20.0" y="476.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">src</text>
+<circle cx="230.0" cy="238.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="220.0" y="242.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">commonMain</text>
+<circle cx="430.0" cy="238.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="420.0" y="242.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">com</text>
+<circle cx="630.0" cy="238.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="620.0" y="242.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">github</text>
+<circle cx="830.0" cy="238.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="820.0" y="242.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">jetbrains</text>
+<circle cx="1030.0" cy="238.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1020.0" y="242.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">rssreader</text>
+<circle cx="1230.0" cy="136.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1220.0" y="140.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">compose</text>
+<circle cx="1430.0" cy="52.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1440.0" y="56.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">App</text>
+<circle cx="1430.0" cy="76.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="80.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">Dialogs</text>
+<circle cx="1430.0" cy="100.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="104.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">FeedIcon</text>
+<circle cx="1430.0" cy="124.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="128.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">FeedList</text>
+<circle cx="1430.0" cy="148.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1440.0" y="152.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">MainFeed</text>
+<circle cx="1430.0" cy="172.0" r="4" fill="#FFF" stroke="#7C3AED" stroke-width="2.5"/>
+<text x="1440.0" y="176.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">PlatformUI</text>
+<circle cx="1430.0" cy="196.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1440.0" y="200.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">PostList</text>
+<circle cx="1430.0" cy="220.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="224.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">Screens</text>
+<circle cx="1230.0" cy="256.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1220.0" y="260.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">app</text>
+<circle cx="1430.0" cy="244.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1440.0" y="248.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">FeedStore</text>
+<circle cx="1430.0" cy="268.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1440.0" y="272.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">NanoRedux</text>
+<circle cx="1230.0" cy="340.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1220.0" y="344.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">core</text>
+<circle cx="1430.0" cy="292.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1440.0" y="296.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">RssReader</text>
+<circle cx="1430.0" cy="346.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1420.0" y="350.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">datasource</text>
+<circle cx="1630.0" cy="328.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1620.0" y="332.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">network</text>
+<circle cx="1830.0" cy="316.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1840.0" y="320.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">FeedLoader</text>
+<circle cx="1830.0" cy="340.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1840.0" y="344.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">FeedParser</text>
+<circle cx="1630.0" cy="364.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1620.0" y="368.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">storage</text>
+<circle cx="1830.0" cy="364.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1840.0" y="368.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">FeedStorage</text>
+<circle cx="1430.0" cy="388.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1420.0" y="392.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">entity</text>
+<circle cx="1630.0" cy="388.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1640.0" y="392.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">feed</text>
+<circle cx="230.0" cy="460.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="220.0" y="464.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">androidMain</text>
+<circle cx="430.0" cy="460.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="420.0" y="464.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">com</text>
+<circle cx="630.0" cy="460.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="620.0" y="464.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">github</text>
+<circle cx="830.0" cy="460.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="820.0" y="464.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">jetbrains</text>
+<circle cx="1030.0" cy="460.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1020.0" y="464.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">rssreader</text>
+<circle cx="1230.0" cy="412.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="416.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">App</text>
+<circle cx="1230.0" cy="448.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1220.0" y="452.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">compose</text>
+<circle cx="1430.0" cy="436.0" r="4" fill="#FFF" stroke="#7C3AED" stroke-width="2.5"/>
+<text x="1440.0" y="440.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">PlatformUI.android</text>
+<circle cx="1430.0" cy="460.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="464.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">Previews</text>
+<circle cx="1230.0" cy="484.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1220.0" y="488.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">sync</text>
+<circle cx="1430.0" cy="484.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1440.0" y="488.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">RefreshWorker</text>
+<circle cx="1230.0" cy="508.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1220.0" y="512.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">core</text>
+<circle cx="1430.0" cy="508.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1440.0" y="512.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">RssReader</text>
+<circle cx="230.0" cy="562.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="220.0" y="566.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">iosMain</text>
+<circle cx="430.0" cy="544.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="420.0" y="548.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">com</text>
+<circle cx="630.0" cy="544.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="620.0" y="548.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">github</text>
+<circle cx="830.0" cy="544.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="820.0" y="548.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">jetbrains</text>
+<circle cx="1030.0" cy="544.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1020.0" y="548.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">rssreader</text>
+<circle cx="1230.0" cy="532.0" r="5" fill="#FFF" stroke="#7C3AED" stroke-width="2.5"/>
+<text x="1220.0" y="536.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">compose</text>
+<circle cx="1430.0" cy="532.0" r="4" fill="#FFF" stroke="#7C3AED" stroke-width="2.5"/>
+<text x="1440.0" y="536.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">PlatformUI.ios</text>
+<circle cx="1230.0" cy="556.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1220.0" y="560.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">core</text>
+<circle cx="1430.0" cy="556.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1440.0" y="560.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">RssReader</text>
+<circle cx="430.0" cy="580.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="440.0" y="584.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">main</text>
+<circle cx="230.0" cy="634.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="220.0" y="638.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">jsMain</text>
+<circle cx="430.0" cy="616.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="420.0" y="620.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">com</text>
+<circle cx="630.0" cy="616.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="620.0" y="620.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">github</text>
+<circle cx="830.0" cy="616.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="820.0" y="620.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">jetbrains</text>
+<circle cx="1030.0" cy="616.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1020.0" y="620.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">rssreader</text>
+<circle cx="1230.0" cy="604.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1220.0" y="608.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">compose</text>
+<circle cx="1430.0" cy="604.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1440.0" y="608.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">PlatformUI.js</text>
+<circle cx="1230.0" cy="628.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1220.0" y="632.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">core</text>
+<circle cx="1430.0" cy="628.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1440.0" y="632.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">RssReader</text>
+<circle cx="430.0" cy="652.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="440.0" y="656.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">main</text>
+<circle cx="230.0" cy="706.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="220.0" y="710.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">jvmMain</text>
+<circle cx="430.0" cy="688.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="420.0" y="692.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">com</text>
+<circle cx="630.0" cy="688.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="620.0" y="692.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">github</text>
+<circle cx="830.0" cy="688.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="820.0" y="692.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">jetbrains</text>
+<circle cx="1030.0" cy="688.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1020.0" y="692.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">rssreader</text>
+<circle cx="1230.0" cy="676.0" r="5" fill="#FFF" stroke="#7C3AED" stroke-width="2.5"/>
+<text x="1220.0" y="680.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">compose</text>
+<circle cx="1430.0" cy="676.0" r="4" fill="#FFF" stroke="#7C3AED" stroke-width="2.5"/>
+<text x="1440.0" y="680.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">PlatformUI.jvm</text>
+<circle cx="1230.0" cy="700.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1220.0" y="704.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">core</text>
+<circle cx="1430.0" cy="700.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1440.0" y="704.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">RssReader</text>
+<circle cx="430.0" cy="724.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="440.0" y="728.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">main</text>
+</svg>

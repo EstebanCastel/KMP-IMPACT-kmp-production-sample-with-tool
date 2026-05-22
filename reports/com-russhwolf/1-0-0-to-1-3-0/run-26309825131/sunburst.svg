@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 880" width="760" height="880" font-family="system-ui,sans-serif">
+<rect width="100%" height="100%" fill="#F5F4F0"/>
+<text x="380.0" y="30" text-anchor="middle" fill="#1E293B" font-size="18" font-weight="700">KMP Impact . com.russhwolf</text>
+<text x="380.0" y="52" text-anchor="middle" fill="#64748b" font-size="12">1.0.0 -&gt; 1.3.0 . 37 archivos</text>
+<path d="M 380.00 350.00 A 100.00 100.00 0 0 1 467.52 498.37 L 441.27 483.86 A 70.00 70.00 0 0 0 380.00 380.00 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 380.00 318.00 A 132.00 132.00 0 0 1 495.53 513.85 L 469.27 499.34 A 102.00 102.00 0 0 0 380.00 348.00 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 380.00 286.00 A 164.00 164.00 0 0 1 523.54 529.33 L 497.28 514.82 A 134.00 134.00 0 0 0 380.00 316.00 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 380.00 254.00 A 196.00 196.00 0 0 1 551.54 544.81 L 525.29 530.30 A 166.00 166.00 0 0 0 380.00 284.00 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 380.00 222.00 A 228.00 228.00 0 0 1 579.55 560.29 L 553.29 545.78 A 198.00 198.00 0 0 0 380.00 252.00 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 467.52 498.37 A 100.00 100.00 0 0 1 336.61 540.10 L 349.63 513.07 A 70.00 70.00 0 0 0 441.27 483.86 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 495.53 513.85 A 132.00 132.00 0 0 1 322.73 568.93 L 335.74 541.90 A 102.00 102.00 0 0 0 469.27 499.34 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 523.54 529.33 A 164.00 164.00 0 0 1 308.84 597.76 L 321.86 570.73 A 134.00 134.00 0 0 0 497.28 514.82 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 551.54 544.81 A 196.00 196.00 0 0 1 294.96 626.59 L 307.98 599.56 A 166.00 166.00 0 0 0 525.29 530.30 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 579.55 560.29 A 228.00 228.00 0 0 1 281.07 655.42 L 294.09 628.39 A 198.00 198.00 0 0 0 553.29 545.78 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 336.61 540.10 A 100.00 100.00 0 0 1 282.51 472.25 L 311.76 465.58 A 70.00 70.00 0 0 0 349.63 513.07 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 322.73 568.93 A 132.00 132.00 0 0 1 264.47 513.85 L 290.73 499.34 A 102.00 102.00 0 0 0 335.74 541.90 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 308.84 597.76 A 164.00 164.00 0 0 1 236.46 529.33 L 262.72 514.82 A 134.00 134.00 0 0 0 321.86 570.73 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 294.96 626.59 A 196.00 196.00 0 0 1 208.46 544.81 L 234.71 530.30 A 166.00 166.00 0 0 0 307.98 599.56 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 281.07 655.42 A 228.00 228.00 0 0 1 180.45 560.29 L 206.71 545.78 A 198.00 198.00 0 0 0 294.09 628.39 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 264.47 513.85 A 132.00 132.00 0 0 1 251.31 479.37 L 280.56 472.70 A 102.00 102.00 0 0 0 290.73 499.34 Z" fill="#1D4ED8" fill-opacity="1"/>
+<path d="M 282.51 472.25 A 100.00 100.00 0 0 1 301.82 387.65 L 325.27 406.36 A 70.00 70.00 0 0 0 311.76 465.58 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 251.31 479.37 A 132.00 132.00 0 0 1 258.05 399.49 L 285.76 410.97 A 102.00 102.00 0 0 0 280.56 472.70 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 220.11 486.49 A 164.00 164.00 0 0 1 228.48 387.24 L 256.20 398.72 A 134.00 134.00 0 0 0 249.36 479.82 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 188.91 493.61 A 196.00 196.00 0 0 1 198.92 374.99 L 226.64 386.47 A 166.00 166.00 0 0 0 218.16 486.94 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 157.72 500.73 A 228.00 228.00 0 0 1 169.36 362.75 L 197.07 374.23 A 198.00 198.00 0 0 0 186.96 494.06 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 258.05 399.49 A 132.00 132.00 0 0 1 276.80 367.70 L 300.25 386.40 A 102.00 102.00 0 0 0 285.76 410.97 Z" fill="#1D4ED8" fill-opacity="1"/>
+<path d="M 301.82 387.65 A 100.00 100.00 0 0 1 380.00 350.00 L 380.00 380.00 A 70.00 70.00 0 0 0 325.27 406.36 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 276.80 367.70 A 132.00 132.00 0 0 1 343.46 323.16 L 351.76 351.99 A 102.00 102.00 0 0 0 300.25 386.40 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 251.78 347.75 A 164.00 164.00 0 0 1 334.60 292.41 L 342.90 321.24 A 134.00 134.00 0 0 0 275.23 366.45 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 226.76 327.80 A 196.00 196.00 0 0 1 325.74 261.66 L 334.05 290.49 A 166.00 166.00 0 0 0 250.22 346.50 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 201.74 307.84 A 228.00 228.00 0 0 1 316.88 230.91 L 325.19 259.74 A 198.00 198.00 0 0 0 225.20 326.55 Z" fill="#B91C1C" fill-opacity="1"/>
+<path d="M 343.46 323.16 A 132.00 132.00 0 0 1 380.00 318.00 L 380.00 348.00 A 102.00 102.00 0 0 0 351.76 351.99 Z" fill="#1D4ED8" fill-opacity="1"/>
+<text x="453.2" y="406.8" text-anchor="middle" dominant-baseline="middle" transform="rotate(-30.5 453.2 406.8)" font-size="11" font-weight="700" fill="#FFFFFF">commonMain</text>
+<text x="480.8" y="390.6" text-anchor="middle" dominant-baseline="middle" transform="rotate(-30.5 480.8 390.6)" font-size="11" font-weight="700" fill="#FFFFFF">com</text>
+<text x="508.3" y="374.3" text-anchor="middle" dominant-baseline="middle" transform="rotate(-30.5 508.3 374.3)" font-size="11" font-weight="700" fill="#FFFFFF">github</text>
+<text x="535.9" y="358.0" text-anchor="middle" dominant-baseline="middle" transform="rotate(-30.5 535.9 358.0)" font-size="11" font-weight="700" fill="#FFFFFF">jetbrains</text>
+<text x="563.5" y="341.8" text-anchor="middle" dominant-baseline="middle" transform="rotate(-30.5 563.5 341.8)" font-size="11" font-weight="700" fill="#FFFFFF">rssreader</text>
+<text x="407.3" y="207.5" text-anchor="start" dominant-baseline="middle" transform="rotate(-83.6 407.3 207.5)" font-size="10" font-weight="600" fill="#60A5FA" opacity="0.85">App</text>
+<text x="460.6" y="219.7" text-anchor="start" dominant-baseline="middle" transform="rotate(-70.7 460.6 219.7)" font-size="10" font-weight="600" fill="#60A5FA" opacity="0.85">FeedList</text>
+<text x="509.8" y="243.4" text-anchor="start" dominant-baseline="middle" transform="rotate(-57.9 509.8 243.4)" font-size="10" font-weight="600" fill="#60A5FA" opacity="0.85">MainFeed</text>
+<text x="552.5" y="277.5" text-anchor="start" dominant-baseline="middle" transform="rotate(-45.0 552.5 277.5)" font-size="10" font-weight="600" fill="#60A5FA" opacity="0.85">Screens</text>
+<text x="575.0" y="303.3" text-anchor="start" dominant-baseline="middle" transform="rotate(-37.0 575.0 303.3)" font-size="10" font-weight="600" fill="#94A3B8" opacity="0.85">PlatformUI</text>
+<text x="610.3" y="369.4" text-anchor="start" dominant-baseline="middle" transform="rotate(-19.3 610.3 369.4)" font-size="10" font-weight="600" fill="#B91C1C" opacity="0.85">FeedStorage</text>
+<text x="623.1" y="470.5" text-anchor="start" dominant-baseline="middle" transform="rotate(4.8 623.1 470.5)" font-size="10" font-weight="600" fill="#1D4ED8" opacity="0.85">RssReader</text>
+<text x="608.0" y="537.0" text-anchor="start" dominant-baseline="middle" transform="rotate(20.9 608.0 537.0)" font-size="10" font-weight="600" fill="#1D4ED8" opacity="0.85">FeedStore</text>
+<text x="405.8" y="531.0" text-anchor="middle" dominant-baseline="middle" transform="rotate(72.3 405.8 531.0)" font-size="11" font-weight="700" fill="#FFFFFF">androidMa.</text>
+<text x="415.5" y="561.5" text-anchor="middle" dominant-baseline="middle" transform="rotate(72.3 415.5 561.5)" font-size="11" font-weight="700" fill="#FFFFFF">com</text>
+<text x="425.2" y="592.0" text-anchor="middle" dominant-baseline="middle" transform="rotate(72.3 425.2 592.0)" font-size="11" font-weight="700" fill="#FFFFFF">github</text>
+<text x="435.0" y="622.5" text-anchor="middle" dominant-baseline="middle" transform="rotate(72.3 435.0 622.5)" font-size="11" font-weight="700" fill="#FFFFFF">jetbrains</text>
+<text x="444.7" y="652.9" text-anchor="middle" dominant-baseline="middle" transform="rotate(72.3 444.7 652.9)" font-size="11" font-weight="700" fill="#FFFFFF">rssreader</text>
+<text x="552.5" y="622.5" text-anchor="start" dominant-baseline="middle" transform="rotate(45.0 552.5 622.5)" font-size="10" font-weight="600" fill="#B91C1C" opacity="0.85">RssReader</text>
+<text x="473.4" y="675.4" text-anchor="start" dominant-baseline="middle" transform="rotate(67.5 473.4 675.4)" font-size="10" font-weight="600" fill="#60A5FA" opacity="0.85">PlatformUI.android</text>
+<text x="427.6" y="689.3" text-anchor="start" dominant-baseline="middle" transform="rotate(78.7 427.6 689.3)" font-size="10" font-weight="600" fill="#60A5FA" opacity="0.85">Previews</text>
+<text x="373.2" y="693.9" text-anchor="end" dominant-baseline="middle" transform="rotate(271.6 373.2 693.9)" font-size="10" font-weight="600" fill="#1D4ED8" opacity="0.85">App</text>
+<text x="305.9" y="682.5" text-anchor="end" dominant-baseline="middle" transform="rotate(287.7 305.9 682.5)" font-size="10" font-weight="600" fill="#1D4ED8" opacity="0.85">RefreshWorker</text>
+<text x="313.5" y="503.0" text-anchor="middle" dominant-baseline="middle" transform="rotate(321.4 313.5 503.0)" font-size="11" font-weight="700" fill="#FFFFFF">iosMa.</text>
+<text x="299.6" y="535.0" text-anchor="middle" dominant-baseline="middle" transform="rotate(313.4 299.6 535.0)" font-size="11" font-weight="700" fill="#FFFFFF">com</text>
+<text x="277.6" y="558.3" text-anchor="middle" dominant-baseline="middle" transform="rotate(313.4 277.6 558.3)" font-size="11" font-weight="700" fill="#FFFFFF">github</text>
+<text x="255.7" y="581.5" text-anchor="middle" dominant-baseline="middle" transform="rotate(313.4 255.7 581.5)" font-size="11" font-weight="700" fill="#FFFFFF">jetbrains</text>
+<text x="233.7" y="604.8" text-anchor="middle" dominant-baseline="middle" transform="rotate(313.4 233.7 604.8)" font-size="11" font-weight="700" fill="#FFFFFF">rssreader</text>
+<text x="217.4" y="631.9" text-anchor="end" dominant-baseline="middle" transform="rotate(311.8 217.4 631.9)" font-size="10" font-weight="600" fill="#B91C1C" opacity="0.85">RssReader</text>
+<text x="169.8" y="574.0" text-anchor="end" dominant-baseline="middle" transform="rotate(329.5 169.8 574.0)" font-size="10" font-weight="600" fill="#94A3B8" opacity="0.85">PlatformUI.ios</text>
+<text x="270.7" y="491.7" text-anchor="middle" dominant-baseline="middle" transform="rotate(339.1 270.7 491.7)" font-size="11" font-weight="700" fill="#FFFFFF">main</text>
+<text x="297.1" y="431.1" text-anchor="middle" dominant-baseline="middle" transform="rotate(372.9 297.1 431.1)" font-size="11" font-weight="700" fill="#FFFFFF">jsMain</text>
+<text x="263.4" y="440.2" text-anchor="middle" dominant-baseline="middle" transform="rotate(364.8 263.4 440.2)" font-size="11" font-weight="700" fill="#FFFFFF">com</text>
+<text x="231.5" y="437.5" text-anchor="middle" dominant-baseline="middle" transform="rotate(364.8 231.5 437.5)" font-size="11" font-weight="700" fill="#FFFFFF">github</text>
+<text x="199.6" y="434.8" text-anchor="middle" dominant-baseline="middle" transform="rotate(364.8 199.6 434.8)" font-size="11" font-weight="700" fill="#FFFFFF">jetbrains</text>
+<text x="167.8" y="432.1" text-anchor="middle" dominant-baseline="middle" transform="rotate(364.8 167.8 432.1)" font-size="11" font-weight="700" fill="#FFFFFF">rssreader</text>
+<text x="136.4" y="436.3" text-anchor="end" dominant-baseline="middle" transform="rotate(363.2 136.4 436.3)" font-size="10" font-weight="600" fill="#B91C1C" opacity="0.85">RssReader</text>
+<text x="152.0" y="363.0" text-anchor="end" dominant-baseline="middle" transform="rotate(380.9 152.0 363.0)" font-size="10" font-weight="600" fill="#94A3B8" opacity="0.85">PlatformUI.js</text>
+<text x="279.2" y="390.6" text-anchor="middle" dominant-baseline="middle" transform="rotate(390.5 279.2 390.6)" font-size="11" font-weight="700" fill="#FFFFFF">main</text>
+<text x="343.1" y="373.4" text-anchor="middle" dominant-baseline="middle" transform="rotate(424.3 343.1 373.4)" font-size="11" font-weight="700" fill="#FFFFFF">jvmMa.</text>
+<text x="315.0" y="352.7" text-anchor="middle" dominant-baseline="middle" transform="rotate(416.2 315.0 352.7)" font-size="11" font-weight="700" fill="#FFFFFF">com</text>
+<text x="297.2" y="326.1" text-anchor="middle" dominant-baseline="middle" transform="rotate(416.2 297.2 326.1)" font-size="11" font-weight="700" fill="#FFFFFF">github</text>
+<text x="279.4" y="299.5" text-anchor="middle" dominant-baseline="middle" transform="rotate(416.2 279.4 299.5)" font-size="11" font-weight="700" fill="#FFFFFF">jetbrains</text>
+<text x="261.7" y="272.9" text-anchor="middle" dominant-baseline="middle" transform="rotate(416.2 261.7 272.9)" font-size="11" font-weight="700" fill="#FFFFFF">rssreader</text>
+<text x="238.8" y="251.0" text-anchor="end" dominant-baseline="middle" transform="rotate(414.6 238.8 251.0)" font-size="10" font-weight="600" fill="#B91C1C" opacity="0.85">RssReader</text>
+<text x="305.9" y="217.5" text-anchor="end" dominant-baseline="middle" transform="rotate(432.3 305.9 217.5)" font-size="10" font-weight="600" fill="#94A3B8" opacity="0.85">PlatformUI.jvm</text>
+<text x="363.6" y="334.1" text-anchor="middle" dominant-baseline="middle" transform="rotate(442.0 363.6 334.1)" font-size="11" font-weight="700" fill="#FFFFFF">main</text>
+<circle cx="380.0" cy="450.0" r="70" fill="#F5F4F0" stroke="#D8D6D0"/><text x="380.0" y="454.0" text-anchor="middle" font-size="13" font-weight="700" fill="#64748B">src</text>
+<rect x="20" y="850" width="14" height="14" rx="3" fill="#B91C1C"/><text x="40" y="861" fill="#475569" font-size="11">Directo</text>
+<rect x="164" y="850" width="14" height="14" rx="3" fill="#1D4ED8"/><text x="184" y="861" fill="#475569" font-size="11">Transitivo d1</text>
+<rect x="308" y="850" width="14" height="14" rx="3" fill="#60A5FA"/><text x="328" y="861" fill="#475569" font-size="11">Transitivo d2+</text>
+<rect x="452" y="850" width="14" height="14" rx="3" fill="#94A3B8"/><text x="472" y="861" fill="#475569" font-size="11">Sin impacto</text>
+<rect x="596" y="850" width="14" height="14" rx="3" fill="none" stroke="#64748B" stroke-width="1.5" stroke-dasharray="3,2"/><text x="616" y="861" fill="#475569" font-size="11">Expect/Actual</text>
+</svg>

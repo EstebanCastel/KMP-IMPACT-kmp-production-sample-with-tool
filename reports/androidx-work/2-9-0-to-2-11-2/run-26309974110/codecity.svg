@@ -1,0 +1,39 @@
+<svg viewBox='0 0 880 540' xmlns='http://www.w3.org/2000/svg' style='width:100%;font-family:Inter,system-ui,sans-serif;background:#ffffff;'>
+<text x='440' y='22' text-anchor='middle' fill='#1e293b' font-size='13' font-weight='700'>Code city — area = RLOC, colour = impact level</text>
+<rect x='2' y='36.0' width='876' height='258.3' fill='#f8fafc' stroke='#e2e8f0' stroke-width='1'/>
+<text x='14' y='52.0' fill='#475569' font-size='11' font-weight='700' text-transform='uppercase'>androidMain (4 files)</text>
+<rect x='8.0' y='60.0' width='308.6' height='226.3' fill='#f59e0b' stroke='white' stroke-width='1.5'/>
+<text x='162.3' y='176.2' text-anchor='middle' fill='white' font-size='10' font-weight='600'>Previews.kt</text>
+<rect x='316.6' y='60.0' width='263.7' height='226.3' fill='#f59e0b' stroke='white' stroke-width='1.5'/>
+<text x='448.4' y='176.2' text-anchor='middle' fill='white' font-size='10' font-weight='600'>App.kt</text>
+<rect x='580.3' y='60.0' width='185.1' height='226.3' fill='#dc2626' stroke='white' stroke-width='1.5'/>
+<text x='672.8' y='176.2' text-anchor='middle' fill='white' font-size='10' font-weight='600'>RefreshWorker.kt</text>
+<rect x='765.4' y='60.0' width='106.6' height='226.3' fill='#f59e0b' stroke='white' stroke-width='1.5'/>
+<text x='818.7' y='176.2' text-anchor='middle' fill='white' font-size='10' font-weight='600'>PlatformUI.androi…</text>
+<rect x='2' y='294.3' width='876' height='72.1' fill='#f8fafc' stroke='#e2e8f0' stroke-width='1'/>
+<text x='14' y='310.3' fill='#475569' font-size='11' font-weight='700' text-transform='uppercase'>jvmMain (2 files)</text>
+<rect x='8.0' y='318.3' width='602.8' height='40.1' fill='#f59e0b' stroke='white' stroke-width='1.5'/>
+<text x='309.4' y='341.4' text-anchor='middle' fill='white' font-size='10' font-weight='600'>main.kt</text>
+<rect x='610.8' y='318.3' width='261.2' height='40.1' fill='#7c3aed' stroke='white' stroke-width='1.5'/>
+<text x='741.4' y='341.4' text-anchor='middle' fill='white' font-size='10' font-weight='600'>PlatformUI.jvm.kt</text>
+<rect x='2' y='366.5' width='876' height='68.8' fill='#f8fafc' stroke='#e2e8f0' stroke-width='1'/>
+<text x='14' y='382.5' fill='#475569' font-size='11' font-weight='700' text-transform='uppercase'>iosMain (2 files)</text>
+<rect x='8.0' y='390.5' width='484.7' height='36.8' fill='#7c3aed' stroke='white' stroke-width='1.5'/>
+<text x='250.3' y='411.8' text-anchor='middle' fill='white' font-size='10' font-weight='600'>PlatformUI.ios.kt</text>
+<rect x='492.7' y='390.5' width='379.3' height='36.8' fill='#f59e0b' stroke='white' stroke-width='1.5'/>
+<text x='682.3' y='411.8' text-anchor='middle' fill='white' font-size='10' font-weight='600'>main.kt</text>
+<rect x='2' y='435.2' width='876' height='60.0' fill='#f8fafc' stroke='#e2e8f0' stroke-width='1'/>
+<text x='14' y='451.2' fill='#475569' font-size='11' font-weight='700' text-transform='uppercase'>jsMain (2 files)</text>
+<rect x='8.0' y='459.2' width='592.5' height='28.0' fill='#f59e0b' stroke='white' stroke-width='1.5'/>
+<text x='304.2' y='476.2' text-anchor='middle' fill='white' font-size='10' font-weight='600'>main.kt</text>
+<rect x='600.5' y='459.2' width='271.5' height='28.0' fill='#7c3aed' stroke='white' stroke-width='1.5'/>
+<text x='736.2' y='476.2' text-anchor='middle' fill='white' font-size='10' font-weight='600'>PlatformUI.js.kt</text>
+<rect x='2' y='495.2' width='876' height='8.8' fill='#f8fafc' stroke='#e2e8f0' stroke-width='1'/>
+<text x='14' y='511.2' fill='#475569' font-size='11' font-weight='700' text-transform='uppercase'>commonMain (1 files)</text>
+<rect x='24' y='514' width='14' height='14' fill='#dc2626' rx='2'/>
+<text x='46' y='526' fill='#475569' font-size='12' font-weight='600'>Direct</text>
+<rect x='224' y='514' width='14' height='14' fill='#f59e0b' rx='2'/>
+<text x='246' y='526' fill='#475569' font-size='12' font-weight='600'>Transitive</text>
+<rect x='424' y='514' width='14' height='14' fill='#7c3aed' rx='2'/>
+<text x='446' y='526' fill='#475569' font-size='12' font-weight='600'>Expect/Actual</text>
+</svg>

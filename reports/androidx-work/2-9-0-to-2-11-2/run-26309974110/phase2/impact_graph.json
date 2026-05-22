@@ -1,0 +1,274 @@
+{
+  "dependency_group": "androidx.work",
+  "version_before": "2.9.0",
+  "version_after": "2.11.2",
+  "seed_files": [
+    "/tmp/output/phase1/before/composeApp/src/androidMain/kotlin/com/github/jetbrains/rssreader/sync/RefreshWorker.kt"
+  ],
+  "impacted_files": [
+    {
+      "file_path": "/tmp/output/phase1/before/composeApp/src/androidMain/kotlin/com/github/jetbrains/rssreader/sync/RefreshWorker.kt",
+      "relation": "direct",
+      "distance": 0,
+      "imports_from_dependency": [
+        "android.content.Context",
+        "androidx.work.CoroutineWorker",
+        "androidx.work.ExistingPeriodicWorkPolicy",
+        "androidx.work.PeriodicWorkRequestBuilder",
+        "androidx.work.WorkManager",
+        "androidx.work.WorkerParameters",
+        "com.github.jetbrains.rssreader.core.RssReader",
+        "kotlinx.coroutines.Dispatchers",
+        "kotlinx.coroutines.withContext",
+        "org.koin.core.component.KoinComponent",
+        "org.koin.core.component.inject",
+        "java.util.concurrent.TimeUnit"
+      ],
+      "metrics": {
+        "rloc": 33,
+        "functions": 1,
+        "mcc": 1,
+        "detekt_findings": 0,
+        "test_coverage": -1.0,
+        "metrics_source": "heuristic"
+      },
+      "declarations": [
+        "com.github.jetbrains.rssreader.sync.RefreshWorker"
+      ],
+      "source_set": "androidMain"
+    },
+    {
+      "file_path": "/tmp/output/phase1/before/composeApp/src/androidMain/kotlin/com/github/jetbrains/rssreader/App.kt",
+      "relation": "transitive",
+      "distance": 1,
+      "imports_from_dependency": [],
+      "metrics": {
+        "rloc": 47,
+        "functions": 2,
+        "mcc": 2,
+        "detekt_findings": 0,
+        "test_coverage": -1.0,
+        "metrics_source": "heuristic"
+      },
+      "declarations": [
+        "com.github.jetbrains.rssreader.App",
+        "com.github.jetbrains.rssreader.AppActivity"
+      ],
+      "source_set": "androidMain"
+    },
+    {
+      "file_path": "/tmp/output/phase1/before/composeApp/src/androidMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.android.kt",
+      "relation": "transitive",
+      "distance": 2,
+      "imports_from_dependency": [],
+      "metrics": {
+        "rloc": 19,
+        "functions": 0,
+        "mcc": 1,
+        "detekt_findings": 0,
+        "test_coverage": -1.0,
+        "metrics_source": "heuristic"
+      },
+      "declarations": [
+        "com.github.jetbrains.rssreader.compose.openUrl",
+        "com.github.jetbrains.rssreader.compose.setupDefaultComponents",
+        "com.github.jetbrains.rssreader.compose.getImageCacheDirectoryPath"
+      ],
+      "source_set": "androidMain"
+    },
+    {
+      "file_path": "/tmp/output/phase1/before/composeApp/src/jvmMain/kotlin/main.kt",
+      "relation": "transitive",
+      "distance": 3,
+      "imports_from_dependency": [],
+      "metrics": {
+        "rloc": 30,
+        "functions": 1,
+        "mcc": 2,
+        "detekt_findings": 0,
+        "test_coverage": -1.0,
+        "metrics_source": "heuristic"
+      },
+      "declarations": [
+        "main"
+      ],
+      "source_set": "jvmMain"
+    },
+    {
+      "file_path": "/tmp/output/phase1/before/composeApp/src/jsMain/kotlin/main.kt",
+      "relation": "transitive",
+      "distance": 3,
+      "imports_from_dependency": [],
+      "metrics": {
+        "rloc": 24,
+        "functions": 1,
+        "mcc": 1,
+        "detekt_findings": 0,
+        "test_coverage": -1.0,
+        "metrics_source": "heuristic"
+      },
+      "declarations": [
+        "main"
+      ],
+      "source_set": "jsMain"
+    },
+    {
+      "file_path": "/tmp/output/phase1/before/composeApp/src/androidMain/kotlin/com/github/jetbrains/rssreader/compose/Previews.kt",
+      "relation": "transitive",
+      "distance": 3,
+      "imports_from_dependency": [],
+      "metrics": {
+        "rloc": 55,
+        "functions": 0,
+        "mcc": 1,
+        "detekt_findings": 0,
+        "test_coverage": -1.0,
+        "metrics_source": "heuristic"
+      },
+      "declarations": [
+        "com.github.jetbrains.rssreader.androidApp.composeui.PreviewData"
+      ],
+      "source_set": "androidMain"
+    },
+    {
+      "file_path": "/tmp/output/phase1/before/composeApp/src/iosMain/kotlin/main.kt",
+      "relation": "transitive",
+      "distance": 3,
+      "imports_from_dependency": [],
+      "metrics": {
+        "rloc": 18,
+        "functions": 1,
+        "mcc": 1,
+        "detekt_findings": 0,
+        "test_coverage": -1.0,
+        "metrics_source": "heuristic"
+      },
+      "declarations": [
+        "MainViewController"
+      ],
+      "source_set": "ios"
+    },
+    {
+      "file_path": "/tmp/output/phase1/before/composeApp/src/iosMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.ios.kt",
+      "relation": "expect_actual",
+      "distance": 3,
+      "imports_from_dependency": [],
+      "metrics": {
+        "rloc": 23,
+        "functions": 0,
+        "mcc": 1,
+        "detekt_findings": 0,
+        "test_coverage": -1.0,
+        "metrics_source": "heuristic"
+      },
+      "declarations": [
+        "com.github.jetbrains.rssreader.compose.openUrl",
+        "com.github.jetbrains.rssreader.compose.setupDefaultComponents",
+        "com.github.jetbrains.rssreader.compose.getImageCacheDirectoryPath"
+      ],
+      "source_set": "ios"
+    },
+    {
+      "file_path": "/tmp/output/phase1/before/composeApp/src/jsMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.js.kt",
+      "relation": "expect_actual",
+      "distance": 3,
+      "imports_from_dependency": [],
+      "metrics": {
+        "rloc": 11,
+        "functions": 0,
+        "mcc": 1,
+        "detekt_findings": 0,
+        "test_coverage": -1.0,
+        "metrics_source": "heuristic"
+      },
+      "declarations": [
+        "com.github.jetbrains.rssreader.compose.openUrl",
+        "com.github.jetbrains.rssreader.compose.setupDefaultComponents",
+        "com.github.jetbrains.rssreader.compose.getImageCacheDirectoryPath"
+      ],
+      "source_set": "jsMain"
+    },
+    {
+      "file_path": "/tmp/output/phase1/before/composeApp/src/commonMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.kt",
+      "relation": "expect_actual",
+      "distance": 3,
+      "imports_from_dependency": [],
+      "metrics": {
+        "rloc": 6,
+        "functions": 0,
+        "mcc": 1,
+        "detekt_findings": 0,
+        "test_coverage": -1.0,
+        "metrics_source": "heuristic"
+      },
+      "declarations": [
+        "com.github.jetbrains.rssreader.compose.openUrl",
+        "com.github.jetbrains.rssreader.compose.setupDefaultComponents",
+        "com.github.jetbrains.rssreader.compose.getImageCacheDirectoryPath"
+      ],
+      "source_set": "commonMain"
+    },
+    {
+      "file_path": "/tmp/output/phase1/before/composeApp/src/jvmMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.jvm.kt",
+      "relation": "expect_actual",
+      "distance": 3,
+      "imports_from_dependency": [],
+      "metrics": {
+        "rloc": 13,
+        "functions": 0,
+        "mcc": 1,
+        "detekt_findings": 0,
+        "test_coverage": -1.0,
+        "metrics_source": "heuristic"
+      },
+      "declarations": [
+        "com.github.jetbrains.rssreader.compose.openUrl",
+        "com.github.jetbrains.rssreader.compose.setupDefaultComponents",
+        "com.github.jetbrains.rssreader.compose.getImageCacheDirectoryPath"
+      ],
+      "source_set": "jvmMain"
+    }
+  ],
+  "expect_actual_pairs": [
+    {
+      "expect_fqcn": "com.github.jetbrains.rssreader.compose.openUrl",
+      "expect_file": "/tmp/output/phase1/before/composeApp/src/commonMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.kt",
+      "actual_files": [
+        "/tmp/output/phase1/before/composeApp/src/androidMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.android.kt",
+        "/tmp/output/phase1/before/composeApp/src/iosMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.ios.kt",
+        "/tmp/output/phase1/before/composeApp/src/jsMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.js.kt",
+        "/tmp/output/phase1/before/composeApp/src/jvmMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.jvm.kt"
+      ]
+    },
+    {
+      "expect_fqcn": "com.github.jetbrains.rssreader.compose.setupDefaultComponents",
+      "expect_file": "/tmp/output/phase1/before/composeApp/src/commonMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.kt",
+      "actual_files": [
+        "/tmp/output/phase1/before/composeApp/src/androidMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.android.kt",
+        "/tmp/output/phase1/before/composeApp/src/iosMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.ios.kt",
+        "/tmp/output/phase1/before/composeApp/src/jsMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.js.kt",
+        "/tmp/output/phase1/before/composeApp/src/jvmMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.jvm.kt"
+      ]
+    },
+    {
+      "expect_fqcn": "com.github.jetbrains.rssreader.compose.getImageCacheDirectoryPath",
+      "expect_file": "/tmp/output/phase1/before/composeApp/src/commonMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.kt",
+      "actual_files": [
+        "/tmp/output/phase1/before/composeApp/src/androidMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.android.kt",
+        "/tmp/output/phase1/before/composeApp/src/iosMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.ios.kt",
+        "/tmp/output/phase1/before/composeApp/src/jsMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.js.kt",
+        "/tmp/output/phase1/before/composeApp/src/jvmMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.jvm.kt"
+      ]
+    },
+    {
+      "expect_fqcn": "com.example.common.DatabaseDriverFactory",
+      "expect_file": "/tmp/output/phase1/before/tools/kmp-impact-analyzer/tests/fixtures/sample_kotlin/ExpectClass.kt",
+      "actual_files": [
+        "/tmp/output/phase1/before/tools/kmp-impact-analyzer/tests/fixtures/sample_kotlin/ActualAndroid.kt"
+      ]
+    }
+  ],
+  "total_project_files": 37,
+  "total_impacted": 11,
+  "ksp_edges_added": 4
+}

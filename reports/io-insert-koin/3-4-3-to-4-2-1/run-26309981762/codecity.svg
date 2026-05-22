@@ -1,0 +1,40 @@
+<svg viewBox='0 0 880 540' xmlns='http://www.w3.org/2000/svg' style='width:100%;font-family:Inter,system-ui,sans-serif;background:#ffffff;'>
+<text x='440' y='22' text-anchor='middle' fill='#1e293b' font-size='13' font-weight='700'>Code city — area = RLOC, colour = impact level</text>
+<rect x='2' y='36.0' width='876' height='177.0' fill='#f8fafc' stroke='#e2e8f0' stroke-width='1'/>
+<text x='14' y='52.0' fill='#475569' font-size='11' font-weight='700' text-transform='uppercase'>commonMain (3 files)</text>
+<rect x='8.0' y='60.0' width='655.8' height='145.0' fill='#dc2626' stroke='white' stroke-width='1.5'/>
+<text x='335.9' y='135.5' text-anchor='middle' fill='white' font-size='10' font-weight='600'>App.kt</text>
+<rect x='663.8' y='60.0' width='177.0' height='145.0' fill='#dc2626' stroke='white' stroke-width='1.5'/>
+<text x='752.3' y='135.5' text-anchor='middle' fill='white' font-size='10' font-weight='600'>Screens.kt</text>
+<rect x='840.8' y='60.0' width='31.2' height='145.0' fill='#7c3aed' stroke='white' stroke-width='1.5'/>
+<rect x='2' y='213.0' width='876' height='164.2' fill='#f8fafc' stroke='#e2e8f0' stroke-width='1'/>
+<text x='14' y='229.0' fill='#475569' font-size='11' font-weight='700' text-transform='uppercase'>androidMain (4 files)</text>
+<rect x='8.0' y='237.0' width='308.6' height='132.2' fill='#f59e0b' stroke='white' stroke-width='1.5'/>
+<text x='162.3' y='306.1' text-anchor='middle' fill='white' font-size='10' font-weight='600'>Previews.kt</text>
+<rect x='316.6' y='237.0' width='263.7' height='132.2' fill='#dc2626' stroke='white' stroke-width='1.5'/>
+<text x='448.4' y='306.1' text-anchor='middle' fill='white' font-size='10' font-weight='600'>App.kt</text>
+<rect x='580.3' y='237.0' width='185.1' height='132.2' fill='#dc2626' stroke='white' stroke-width='1.5'/>
+<text x='672.8' y='306.1' text-anchor='middle' fill='white' font-size='10' font-weight='600'>RefreshWorker.kt</text>
+<rect x='765.4' y='237.0' width='106.6' height='132.2' fill='#f59e0b' stroke='white' stroke-width='1.5'/>
+<text x='818.7' y='306.1' text-anchor='middle' fill='white' font-size='10' font-weight='600'>PlatformUI.androi…</text>
+<rect x='2' y='377.1' width='876' height='60.0' fill='#f8fafc' stroke='#e2e8f0' stroke-width='1'/>
+<text x='14' y='393.1' fill='#475569' font-size='11' font-weight='700' text-transform='uppercase'>jvmMain (2 files)</text>
+<rect x='8.0' y='401.1' width='602.8' height='28.0' fill='#dc2626' stroke='white' stroke-width='1.5'/>
+<text x='309.4' y='418.1' text-anchor='middle' fill='white' font-size='10' font-weight='600'>main.kt</text>
+<rect x='610.8' y='401.1' width='261.2' height='28.0' fill='#7c3aed' stroke='white' stroke-width='1.5'/>
+<text x='741.4' y='418.1' text-anchor='middle' fill='white' font-size='10' font-weight='600'>PlatformUI.jvm.kt</text>
+<rect x='2' y='437.1' width='876' height='60.0' fill='#f8fafc' stroke='#e2e8f0' stroke-width='1'/>
+<text x='14' y='453.1' fill='#475569' font-size='11' font-weight='700' text-transform='uppercase'>iosMain (2 files)</text>
+<rect x='8.0' y='461.1' width='484.7' height='28.0' fill='#7c3aed' stroke='white' stroke-width='1.5'/>
+<text x='250.3' y='478.1' text-anchor='middle' fill='white' font-size='10' font-weight='600'>PlatformUI.ios.kt</text>
+<rect x='492.7' y='461.1' width='379.3' height='28.0' fill='#dc2626' stroke='white' stroke-width='1.5'/>
+<text x='682.3' y='478.1' text-anchor='middle' fill='white' font-size='10' font-weight='600'>main.kt</text>
+<rect x='2' y='497.1' width='876' height='6.9' fill='#f8fafc' stroke='#e2e8f0' stroke-width='1'/>
+<text x='14' y='513.1' fill='#475569' font-size='11' font-weight='700' text-transform='uppercase'>jsMain (2 files)</text>
+<rect x='24' y='514' width='14' height='14' fill='#dc2626' rx='2'/>
+<text x='46' y='526' fill='#475569' font-size='12' font-weight='600'>Direct</text>
+<rect x='224' y='514' width='14' height='14' fill='#f59e0b' rx='2'/>
+<text x='246' y='526' fill='#475569' font-size='12' font-weight='600'>Transitive</text>
+<rect x='424' y='514' width='14' height='14' fill='#7c3aed' rx='2'/>
+<text x='446' y='526' fill='#475569' font-size='12' font-weight='600'>Expect/Actual</text>
+</svg>

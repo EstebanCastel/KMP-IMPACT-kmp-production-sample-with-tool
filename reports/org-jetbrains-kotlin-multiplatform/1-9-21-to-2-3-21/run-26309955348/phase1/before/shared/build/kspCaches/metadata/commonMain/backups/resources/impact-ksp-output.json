@@ -1,0 +1,92 @@
+{"files": [
+  {
+    "file_path": "/tmp/output/phase1/before/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/core/datasource/storage/FeedStorage.kt",
+    "package": "com.github.jetbrains.rssreader.core.datasource.storage",
+    "declarations": ["com.github.jetbrains.rssreader.core.datasource.storage.FeedStorage"],
+    "type_references": ["com.github.jetbrains.rssreader.core.entity.Feed","com.russhwolf.settings.Settings","kotlinx.serialization.json.Json","com.github.jetbrains.rssreader.core.datasource.storage.FeedStorage"],
+    "supertypes": [],
+    "is_expect": false,
+    "is_actual": false,
+    "expect_actual_fqcns": []
+  },
+  {
+    "file_path": "/tmp/output/phase1/before/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/core/datasource/network/FeedParser.kt",
+    "package": "com.github.jetbrains.rssreader.core.datasource.network",
+    "declarations": ["com.github.jetbrains.rssreader.core.datasource.network.FeedParser"],
+    "type_references": ["com.github.jetbrains.rssreader.core.entity.Feed","com.github.jetbrains.rssreader.core.datasource.network.DateParser","com.github.jetbrains.rssreader.core.datasource.network.FeedParser","nl.adaptivity.xmlutil.serialization.XML"],
+    "supertypes": [],
+    "is_expect": false,
+    "is_actual": false,
+    "expect_actual_fqcns": []
+  },
+  {
+    "file_path": "/tmp/output/phase1/before/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/core/datasource/network/FeedLoader.kt",
+    "package": "com.github.jetbrains.rssreader.core.datasource.network",
+    "declarations": ["com.github.jetbrains.rssreader.core.datasource.network.FeedLoader"],
+    "type_references": ["com.github.jetbrains.rssreader.core.entity.Feed","io.ktor.client.HttpClient","com.github.jetbrains.rssreader.core.datasource.network.FeedParser","com.github.jetbrains.rssreader.core.datasource.network.FeedLoader"],
+    "supertypes": [],
+    "is_expect": false,
+    "is_actual": false,
+    "expect_actual_fqcns": []
+  },
+  {
+    "file_path": "/tmp/output/phase1/before/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/core/datasource/network/DateParser.kt",
+    "package": "com.github.jetbrains.rssreader.core.datasource.network",
+    "declarations": ["com.github.jetbrains.rssreader.core.datasource.network.DateParser"],
+    "type_references": [],
+    "supertypes": [],
+    "is_expect": false,
+    "is_actual": false,
+    "expect_actual_fqcns": []
+  },
+  {
+    "file_path": "/tmp/output/phase1/before/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/core/RssReader.kt",
+    "package": "com.github.jetbrains.rssreader.core",
+    "declarations": ["com.github.jetbrains.rssreader.core.RssReader"],
+    "type_references": ["com.github.jetbrains.rssreader.core.datasource.network.FeedLoader","com.github.jetbrains.rssreader.core.datasource.storage.FeedStorage","com.github.jetbrains.rssreader.core.Settings","com.github.jetbrains.rssreader.core.RssReader"],
+    "supertypes": [],
+    "is_expect": false,
+    "is_actual": false,
+    "expect_actual_fqcns": []
+  },
+  {
+    "file_path": "/tmp/output/phase1/before/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/core/entity/feed.kt",
+    "package": "com.github.jetbrains.rssreader.core.entity",
+    "declarations": ["com.github.jetbrains.rssreader.core.entity.Feed","com.github.jetbrains.rssreader.core.entity.Post"],
+    "type_references": ["com.github.jetbrains.rssreader.core.entity.Feed","com.github.jetbrains.rssreader.core.entity.Post"],
+    "supertypes": [],
+    "is_expect": false,
+    "is_actual": false,
+    "expect_actual_fqcns": []
+  },
+  {
+    "file_path": "/tmp/output/phase1/before/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/core/Settings.kt",
+    "package": "com.github.jetbrains.rssreader.core",
+    "declarations": ["com.github.jetbrains.rssreader.core.Settings"],
+    "type_references": ["com.github.jetbrains.rssreader.core.Settings"],
+    "supertypes": [],
+    "is_expect": false,
+    "is_actual": false,
+    "expect_actual_fqcns": []
+  },
+  {
+    "file_path": "/tmp/output/phase1/before/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/app/NanoRedux.kt",
+    "package": "com.github.jetbrains.rssreader.app",
+    "declarations": ["com.github.jetbrains.rssreader.app.State","com.github.jetbrains.rssreader.app.Action","com.github.jetbrains.rssreader.app.Effect","com.github.jetbrains.rssreader.app.Store"],
+    "type_references": ["kotlinx.coroutines.flow.StateFlow","kotlinx.coroutines.flow.Flow","com.github.jetbrains.rssreader.app.Store.A"],
+    "supertypes": [],
+    "is_expect": false,
+    "is_actual": false,
+    "expect_actual_fqcns": []
+  },
+  {
+    "file_path": "/tmp/output/phase1/before/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/app/FeedStore.kt",
+    "package": "com.github.jetbrains.rssreader.app",
+    "declarations": ["com.github.jetbrains.rssreader.app.mainFeedPosts","com.github.jetbrains.rssreader.app.FeedState","com.github.jetbrains.rssreader.app.FeedAction","com.github.jetbrains.rssreader.app.FeedSideEffect","com.github.jetbrains.rssreader.app.FeedStore"],
+    "type_references": ["com.github.jetbrains.rssreader.app.State","com.github.jetbrains.rssreader.core.entity.Feed","com.github.jetbrains.rssreader.app.FeedState","com.github.jetbrains.rssreader.app.Action","com.github.jetbrains.rssreader.app.FeedAction","com.github.jetbrains.rssreader.app.Effect","com.github.jetbrains.rssreader.app.FeedSideEffect","com.github.jetbrains.rssreader.app.Store","kotlinx.coroutines.CoroutineScope","kotlinx.coroutines.flow.StateFlow","kotlinx.coroutines.flow.Flow","com.github.jetbrains.rssreader.core.RssReader","com.github.jetbrains.rssreader.app.FeedStore","kotlinx.coroutines.flow.MutableStateFlow","kotlinx.coroutines.flow.MutableSharedFlow"],
+    "supertypes": ["com.github.jetbrains.rssreader.app.State","com.github.jetbrains.rssreader.app.Action","com.github.jetbrains.rssreader.app.Effect","com.github.jetbrains.rssreader.app.Store","kotlinx.coroutines.CoroutineScope"],
+    "is_expect": false,
+    "is_actual": false,
+    "expect_actual_fqcns": []
+  }
+]}

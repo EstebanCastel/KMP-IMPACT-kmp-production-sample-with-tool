@@ -1,0 +1,203 @@
+{
+  "dependency_group": "org.jetbrains.kotlinx",
+  "version_before": "1.6.2",
+  "version_after": "1.11.0",
+  "risk_level": "high",
+  "recommendation": "Hold merge until impacted files are reviewed and targeted regression checks pass.",
+  "report_url": "",
+  "total_impacted_files": 29,
+  "total_impacted_screens": 12,
+  "direct_impacts": 15,
+  "transitive_impacts": 14,
+  "expect_actual_impacts": 4,
+  "expect_actual_pairs_total": 4,
+  "total_project_files": 37,
+  "dynamic_status": "skipped",
+  "dynamic_summary": "skipped",
+  "dynamic_diffs": 0,
+  "before_screens": 0,
+  "after_screens": 0,
+  "dynamic_nodes_before": 0,
+  "dynamic_nodes_after": 0,
+  "dynamic_structures_before": 0,
+  "dynamic_structures_after": 0,
+  "screen_mappings": 12,
+  "trace_entries": 29,
+  "seed_files": [
+    "/tmp/output/phase1/before/composeApp/src/androidMain/kotlin/com/github/jetbrains/rssreader/sync/RefreshWorker.kt",
+    "/tmp/output/phase1/before/composeApp/src/commonMain/kotlin/com/github/jetbrains/rssreader/compose/App.kt",
+    "/tmp/output/phase1/before/composeApp/src/commonMain/kotlin/com/github/jetbrains/rssreader/compose/MainFeed.kt",
+    "/tmp/output/phase1/before/composeApp/src/commonMain/kotlin/com/github/jetbrains/rssreader/compose/PostList.kt",
+    "/tmp/output/phase1/before/composeApp/src/jsMain/kotlin/com/github/jetbrains/rssreader/compose/PlatformUI.js.kt",
+    "/tmp/output/phase1/before/shared/src/androidMain/kotlin/com/github/jetbrains/rssreader/core/RssReader.kt",
+    "/tmp/output/phase1/before/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/app/FeedStore.kt",
+    "/tmp/output/phase1/before/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/app/NanoRedux.kt",
+    "/tmp/output/phase1/before/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/core/RssReader.kt",
+    "/tmp/output/phase1/before/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/core/datasource/network/FeedParser.kt",
+    "/tmp/output/phase1/before/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/core/datasource/storage/FeedStorage.kt",
+    "/tmp/output/phase1/before/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/core/entity/feed.kt",
+    "/tmp/output/phase1/before/shared/src/iosMain/kotlin/com/github/jetbrains/rssreader/core/RssReader.kt",
+    "/tmp/output/phase1/before/shared/src/jsMain/kotlin/com/github/jetbrains/rssreader/core/RssReader.kt",
+    "/tmp/output/phase1/before/shared/src/jvmMain/kotlin/com/github/jetbrains/rssreader/core/RssReader.kt"
+  ],
+  "impacted_screens": [
+    "AddFeedDialog",
+    "App",
+    "DeleteFeedDialog",
+    "EditIcon",
+    "FeedIcon",
+    "FeedItem",
+    "FeedItemList",
+    "FeedList",
+    "MainFeed",
+    "MainFeedBottomBar",
+    "PostItem",
+    "PostList"
+  ],
+  "top_impacted_files": [
+    {
+      "file_path": "/tmp/output/phase1/before/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/app/FeedStore.kt",
+      "relation": "direct",
+      "distance": 0,
+      "source_set": "commonMain",
+      "rloc": 128,
+      "mcc": 20,
+      "declarations": [
+        "com.github.jetbrains.rssreader.app.FeedState",
+        "com.github.jetbrains.rssreader.app.mainFeedPosts",
+        "com.github.jetbrains.rssreader.app.FeedAction",
+        "com.github.jetbrains.rssreader.app.FeedSideEffect",
+        "com.github.jetbrains.rssreader.app.FeedStore"
+      ]
+    },
+    {
+      "file_path": "/tmp/output/phase1/before/composeApp/src/commonMain/kotlin/com/github/jetbrains/rssreader/compose/App.kt",
+      "relation": "direct",
+      "distance": 0,
+      "source_set": "commonMain",
+      "rloc": 126,
+      "mcc": 5,
+      "declarations": [
+        "com.github.jetbrains.rssreader.compose.generateImageLoader"
+      ]
+    },
+    {
+      "file_path": "/tmp/output/phase1/before/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/core/datasource/network/FeedParser.kt",
+      "relation": "direct",
+      "distance": 0,
+      "source_set": "commonMain",
+      "rloc": 106,
+      "mcc": 4,
+      "declarations": [
+        "com.github.jetbrains.rssreader.core.datasource.network.FeedParser"
+      ]
+    },
+    {
+      "file_path": "/tmp/output/phase1/before/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/core/RssReader.kt",
+      "relation": "direct",
+      "distance": 0,
+      "source_set": "commonMain",
+      "rloc": 40,
+      "mcc": 4,
+      "declarations": [
+        "com.github.jetbrains.rssreader.core.RssReader"
+      ]
+    },
+    {
+      "file_path": "/tmp/output/phase1/before/shared/src/commonMain/kotlin/com/github/jetbrains/rssreader/core/entity/feed.kt",
+      "relation": "direct",
+      "distance": 0,
+      "source_set": "commonMain",
+      "rloc": 34,
+      "mcc": 4,
+      "declarations": [
+        "com.github.jetbrains.rssreader.core.entity.Feed",
+        "com.github.jetbrains.rssreader.core.entity.Post"
+      ]
+    },
+    {
+      "file_path": "/tmp/output/phase1/before/composeApp/src/commonMain/kotlin/com/github/jetbrains/rssreader/compose/PostList.kt",
+      "relation": "direct",
+      "distance": 0,
+      "source_set": "commonMain",
+      "rloc": 105,
+      "mcc": 3,
+      "declarations": [
+        "com.github.jetbrains.rssreader.compose.PostList",
+        "com.github.jetbrains.rssreader.compose.PostItem",
+        "com.github.jetbrains.rssreader.compose.format"
+      ]
+    },
+    {
+      "file_path": "/tmp/output/phase1/before/shared/src/iosMain/kotlin/com/github/jetbrains/rssreader/core/RssReader.kt",
+      "relation": "direct",
+      "distance": 0,
+      "source_set": "ios",
+      "rloc": 60,
+      "mcc": 3,
+      "declarations": [
+        "com.github.jetbrains.rssreader.core.create",
+        "com.github.jetbrains.rssreader.core.IosHttpClient",
+        "com.github.jetbrains.rssreader.core.IosDateParser"
+      ]
+    },
+    {
+      "file_path": "/tmp/output/phase1/before/shared/src/androidMain/kotlin/com/github/jetbrains/rssreader/core/RssReader.kt",
+      "relation": "direct",
+      "distance": 0,
+      "source_set": "androidMain",
+      "rloc": 56,
+      "mcc": 3,
+      "declarations": [
+        "com.github.jetbrains.rssreader.core.create",
+        "com.github.jetbrains.rssreader.core.AndroidHttpClient",
+        "com.github.jetbrains.rssreader.core.AndroidDateParser"
+      ]
+    },
+    {
+      "file_path": "/tmp/output/phase1/before/shared/src/jvmMain/kotlin/com/github/jetbrains/rssreader/core/RssReader.kt",
+      "relation": "direct",
+      "distance": 0,
+      "source_set": "jvmMain",
+      "rloc": 56,
+      "mcc": 3,
+      "declarations": [
+        "com.github.jetbrains.rssreader.core.create",
+        "com.github.jetbrains.rssreader.core.JvmHttpClient",
+        "com.github.jetbrains.rssreader.core.JvmDateParser"
+      ]
+    },
+    {
+      "file_path": "/tmp/output/phase1/before/shared/src/jsMain/kotlin/com/github/jetbrains/rssreader/core/RssReader.kt",
+      "relation": "direct",
+      "distance": 0,
+      "source_set": "jsMain",
+      "rloc": 44,
+      "mcc": 3,
+      "declarations": [
+        "com.github.jetbrains.rssreader.core.create",
+        "com.github.jetbrains.rssreader.core.JsHttpClient",
+        "com.github.jetbrains.rssreader.core.JsDateParser"
+      ]
+    }
+  ],
+  "compat_warnings": [],
+  "stack_detected": {
+    "kotlin": "1.9.21",
+    "agp": "8.1.4",
+    "compose": "1.6.0-dev1397"
+  },
+  "version_key": "kotlinx-coroutines",
+  "compilation_after": "failure",
+  "compile_errors": 2,
+  "has_detekt": false,
+  "has_kover": false,
+  "tools_used": {
+    "tree_sitter": true,
+    "ksp": true,
+    "detekt": false,
+    "kover": false,
+    "droidbot": false,
+    "codecharta": true
+  }
+}

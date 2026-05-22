@@ -1,0 +1,23 @@
+{
+  "before_dir": "/tmp/output/phase1/before",
+  "after_dir": "/tmp/output/phase1/after",
+  "version_change": {
+    "dependency_group": "io.insert-koin",
+    "version_key": "koin",
+    "before": "3.4.3",
+    "after": "4.2.1"
+  },
+  "init_script_injected": false,
+  "detekt_reports": {},
+  "kover_reports": {},
+  "compilation_after": {
+    "status": "success",
+    "errors": [],
+    "tasks": [
+      "composeApp:compileKotlinIosX64",
+      "composeApp:compileKotlinIosArm64",
+      "shared:compileKotlinIosX64"
+    ]
+  },
+  "compile_targets": {}
+}

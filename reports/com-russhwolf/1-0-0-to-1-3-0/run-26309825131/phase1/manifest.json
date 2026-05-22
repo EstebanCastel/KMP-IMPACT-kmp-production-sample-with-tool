@@ -1,0 +1,26 @@
+{
+  "before_dir": "/tmp/output/phase1/before",
+  "after_dir": "/tmp/output/phase1/after",
+  "version_change": {
+    "dependency_group": "com.russhwolf",
+    "version_key": "multiplatform-settings",
+    "before": "1.0.0",
+    "after": "1.3.0"
+  },
+  "init_script_injected": false,
+  "detekt_reports": {},
+  "kover_reports": {},
+  "compilation_after": {
+    "status": "failure",
+    "errors": [
+      "e: org.jetbrains.kotlin.util.KotlinFrontEndException: Front-end Internal error: Failed to analyze declaration FeedState",
+      "Caused by: java.lang.AssertionError: Built-in class kotlin.Any is not found"
+    ],
+    "tasks": [
+      "shared:compileKotlinJs",
+      "shared:compileKotlinIosSimulatorArm64",
+      "composeApp:compileKotlinIosSimulatorArm64"
+    ]
+  },
+  "compile_targets": {}
+}
